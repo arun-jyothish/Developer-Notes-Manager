@@ -1,0 +1,11 @@
+* Developer-Notes-Manager
+Deamon for auto-logging activities, Periodical prompts
+
+Features
+
++ Productivity tracking
++ Skill training
++ Goal setting
++ System Alerts
+
+** Uses sqllite3
